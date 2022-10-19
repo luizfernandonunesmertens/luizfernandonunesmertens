@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 luiz fernando nunes mertens
 - 🌱 luiz.fernando@escola.pr.gov.br
-- 👯 sou estudant de pensamento computacinal
+- 👯 sou estudante de pensamento computacional
 - 🤔 I’m  aprendente linguagem de progamacao
 - 💬 Ask me about  conteudos relacionados  a progamacao
 - 📫 How to reach me: ...
